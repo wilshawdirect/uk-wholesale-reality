@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wilshawdirect.github.io/uk-wholesale-reality/sitemap.xml
